@@ -26,7 +26,7 @@
 
 🔹 Разработал [трекер задач](https://github.com/Realm2x/task-tracker-with-timer) с таймером(React, Vite)  
 
-🔹 Создал адаптивные и кроссбраузерные страницы на HTML/CSS ([Skillbox](https://github.com/Realm2x/Skillbox-website), [Euclid](https://github.com/Realm2x/Euclid-website), [W-Wave-Radio-website](https://github.com/Realm2x/W-Wave-Radio-website))
+🔹 Разработал адаптивные и кроссбраузерные веб-интерфейсы на HTML/CSS» ([Skillbox](https://github.com/Realm2x/Skillbox-website), [Euclid](https://github.com/Realm2x/Euclid-website), [W-Wave-Radio-website](https://github.com/Realm2x/W-Wave-Radio-website))
 
 🔹 Приложение для управления контактными данными клиентов (на чистом JS) [Data management systems](https://github.com/Realm2x/customer-database)
 
