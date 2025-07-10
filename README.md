@@ -2,7 +2,7 @@
 ### Frontend-разработчик (React)
 
 📍 Нижний Новгород | 📅 28.11.1994  
-📞 +7(910)-397-80-30 | ✉ [yourealm3@gmail.com](mailto:yourealm3@gmail.com)  
+📞 +7(910)-397-80-30 | ✉ [hp-xoloDoK@ya.ru](mailto:hp-xoloDoK@ya.ru)  
 📱 Telegram: @Realm2x 
 
 ---
