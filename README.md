@@ -47,7 +47,7 @@
   - [learn.javascript.ru](http://learn.javascript.ru/)  
   - [React](https://react.dev/learn)  
 
-🔍 Решаю задачи на leetcode.com  
+🔍 Решаю задачи на leetcode.com, www.codewars.com
 🎥 Подписан на различные каналы, посвященные Frontend разработке 
 
 **Сильные стороны:**  
