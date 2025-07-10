@@ -28,9 +28,9 @@
 
 🔹 Разработал адаптивные и кроссбраузерные веб-интерфейсы на HTML/CSS» ([Skillbox](https://github.com/Realm2x/Skillbox-website), [Euclid](https://github.com/Realm2x/Euclid-website), [W-Wave-Radio-website](https://github.com/Realm2x/W-Wave-Radio-website))
 
-🔹 Приложение для управления контактными данными клиентов (на чистом JS) [Data management systems](https://github.com/Realm2x/customer-database)
+🔹 Приложение для управления контактными данными клиентов (JS) [Data management systems](https://github.com/Realm2x/customer-database)
 
-🔹 [Игра "Найди пару"](https://github.com/Realm2x/game--Find-the-pair-) с настраиваемым полем (на чистом JS)
+🔹 [Игра "Найди пару"](https://github.com/Realm2x/game--Find-the-pair-) с настраиваемым полем (JS)
 
 ---
 ## 🎓 Образование
