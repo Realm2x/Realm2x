@@ -26,8 +26,6 @@
 
 🔹 Разработал [трекер задач](https://github.com/Realm2x/task-tracker-with-timer) с таймером(React, Vite)  
 
-🔹 Разработал адаптивные и кроссбраузерные веб-интерфейсы на HTML/CSS» ([W-Wave-Radio-website](https://github.com/Realm2x/W-Wave-Radio-website))
-
 🔹 Приложение для управления контактными данными клиентов (JS) [Data management systems](https://github.com/Realm2x/customer-database)
 
 🔹 [Игра "Найди пару"](https://github.com/Realm2x/game--Find-the-pair-) с настраиваемым полем (JS)
