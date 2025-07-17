@@ -81,11 +81,11 @@
 
 ✅ Постоянно работаю над улучшением скорости загрузки:
 
--Lazy Loading (динамический импорт в React (React.lazy + Suspense))
+- Lazy Loading (динамический импорт в React (React.lazy + Suspense))
 
--Оптимизация рендеринга (React.memo, useMemo, useCallback)
+- Оптимизация рендеринга (React.memo, useMemo, useCallback)
 
--Сжатие изображений: конвертировал в .webp (+ srcset для адаптива)  
+- Сжатие изображений: конвертировал в .webp (+ srcset для адаптива)  
 
 
 Ищу: стажировки, проекты, удаленную/офисную работу.
